@@ -1,0 +1,20 @@
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Multiple IPs found: 52.39.90.56, 52.39.206.44
++ Target IP:          52.39.90.56
++ Target Hostname:    shein.com
++ Target Port:        80
++ Start Time:         2024-11-21 17:59:26 (GMT1)
+---------------------------------------------------------------------------
++ Server: openresty
++ Root page / redirects to: https://shein.com/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ /: Suggested security header missing: referrer-policy. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy
++ /: Suggested security header missing: x-content-type-options. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Content-Type-Options
++ /: Suggested security header missing: permissions-policy. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Permissions-Policy
++ /: Suggested security header missing: strict-transport-security. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
++ /: Suggested security header missing: content-security-policy. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
++ 7989 requests: 19 error(s) and 5 item(s) reported on remote host
++ End Time:           2024-11-21 18:34:04 (GMT1) (2078 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested

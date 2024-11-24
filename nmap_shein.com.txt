@@ -1,0 +1,12 @@
+Starting Nmap 7.93 ( https://nmap.org ) at 2024-11-21 17:10 CET
+Nmap scan report for shein.com (52.39.206.44)
+Host is up (0.15s latency).
+Other addresses for shein.com (not scanned): 52.39.90.56
+rDNS record for 52.39.206.44: ec2-52-39-206-44.us-west-2.compute.amazonaws.com
+Not shown: 65533 filtered tcp ports (no-response)
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     OpenResty web app server
+443/tcp open  ssl/http OpenResty web app server
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 174.87 seconds

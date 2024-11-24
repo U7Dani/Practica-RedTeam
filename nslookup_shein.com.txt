@@ -1,0 +1,9 @@
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	shein.com
+Address: 52.39.206.44
+Name:	shein.com
+Address: 52.39.90.56
+

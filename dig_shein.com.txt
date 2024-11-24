@@ -1,0 +1,21 @@
+
+; <<>> DiG 9.18.28-1~deb12u2-Debian <<>> shein.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4784
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;shein.com.			IN	A
+
+;; ANSWER SECTION:
+shein.com.		50	IN	A	52.39.90.56
+shein.com.		50	IN	A	52.39.206.44
+
+;; Query time: 3 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1) (UDP)
+;; WHEN: Thu Nov 21 17:10:00 CET 2024
+;; MSG SIZE  rcvd: 70
+
